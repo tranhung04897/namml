@@ -1,0 +1,12 @@
+{
+  "name": "dsl-generated-dependencies",
+  "dependencies": {
+    "jquery": "~3.4.1",
+    "bootstrap": "~4.3.1",
+    "font-awesome": "~5.9.0",
+    "chart.js": "~2.8.0"
+  },
+  "resolutions": {
+    "font-awesome": "~5.9.0"
+  }
+}
